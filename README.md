@@ -13,7 +13,7 @@ This repository contains my C# solutions to LeetCode problems.
 
 | # | Title | Difficulty | Solution |
 |---|-------|------------|----------|
-| 1 | [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/) | Easy | [Link](./Easy/ContainsDuplicate.cs) |
+| 1 | [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/) | Easy | [Link](./leetcode/Easy/ContainsDuplicate.cs) |
 
 ## 📁 Medium Problems
 
