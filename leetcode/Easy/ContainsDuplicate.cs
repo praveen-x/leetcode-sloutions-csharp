@@ -1,6 +1,6 @@
 ﻿
 namespace Leetcode.Easy;
-public class Solution
+public class ContainsDuplicateSolution
 {
     public bool ContainsDuplicate(int[] nums)
     {
