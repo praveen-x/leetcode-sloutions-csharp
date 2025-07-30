@@ -7,7 +7,7 @@ This repository contains my C# solutions to LeetCode problems.
 - ✅ Total Solved: 3
 - 🟢 Easy: 3
 - 🟡 Medium: 0
-- 🔴 Hard: 
+- 🔴 Hard: 0
 
 ## 📁 Easy Problems
 
