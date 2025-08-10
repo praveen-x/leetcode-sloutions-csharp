@@ -1,6 +1,6 @@
 # LeetCode Solutions in C#
 
-This repository contains my C# solutions to LeetCode problems.
+This repository contains my C# solutions to LeetCode problems. 
 
 ## 📊 Progress
 
