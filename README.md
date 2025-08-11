@@ -2,7 +2,7 @@
 
 This repository contains my C# solutions to LeetCode problems. 
 
-## 📊 Progress
+## 📊 Progress 
 
 - ✅ Total Solved: 4
 - 🟢 Easy: 4
